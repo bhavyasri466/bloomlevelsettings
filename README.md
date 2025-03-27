@@ -1,7 +1,7 @@
 # 🌱 Bloom Level Setting  
 
 ## 📌 Overview  
-Bloom Level Setting is a **C-based learning platform** designed to assess and enhance cognitive skills using **Bloom’s Taxonomy**. It enables structured evaluation of learning levels, from basic understanding to advanced critical thinking, through **efficient data management and sorting algorithms**.  
+Bloom Level Setting is a **Console based Cpp-based  application** designed to assess and enhance cognitive skills using **Bloom’s Taxonomy**. It enables structured evaluation of learning levels, from basic understanding to advanced critical thinking, through **efficient data management and sorting algorithms**.  
 
 ## 🚀 Features  
 - **CRUD Operations**: Create, Retrieve, Update, and Delete bloom level records.  
@@ -10,7 +10,7 @@ Bloom Level Setting is a **C-based learning platform** designed to assess and en
 - **Algorithm Analysis**: Evaluates time complexity for performance optimization.  
 
 ## 🛠️ Technologies Used  
-- **Programming Language**: C  
+- **Programming Language**: Cpp
 - **Data Structures**: Arrays, Sorting & Searching Algorithms  
 - **File Handling**: Persistent storage of bloom levels  
  
